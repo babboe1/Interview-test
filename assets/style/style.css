@@ -14,11 +14,11 @@ html {
    font-family: 'Poppins', sans-serif;
 }
 #header {
-   display: flex;
-   width: 100%;
-   justify-content: space-between;
-   padding: 1rem 2rem;
-   align-items: baseline;
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	padding: 1rem 2rem;
+	align-items: baseline;
 }
 #nav-bar {
    display: flex;
