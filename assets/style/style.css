@@ -4,14 +4,14 @@
 	margin: 0;
 }
 html {
-   background: #ededee;
+	background: #ededee;
 }
 #body-content {
-   background: white;
+	background: white;
 	max-width: 768px;
 	border: 1px solid red;
 	margin: auto;
-   font-family: 'Poppins', sans-serif;
+	font-family: 'Poppins', sans-serif;
 }
 #header {
 	display: flex;
@@ -21,18 +21,18 @@ html {
 	align-items: baseline;
 }
 #nav-bar {
-   display: flex;
-   column-gap: 1rem;
+	display: flex;
+	column-gap: 1rem;
 }
 section,
 footer {
 	padding: 0 3rem;
 }
-.NavIcon img{
-   width: 100%;
+.NavIcon img {
+	width: 100%;
 }
 .IconImg {
-   width: 46px;
+	width: 46px;
 }
 .HeroSection {
 	color: white;
@@ -45,8 +45,8 @@ footer {
 	align-items: flex-end;
 }
 .HeroTitleText {
-   font-size: 2.5rem;
-   padding: 1rem 0 0;
+	font-size: 2.5rem;
+	padding: 1rem 0 0;
 }
 p {
 	color: rgb(71 95 131);
@@ -59,20 +59,20 @@ p {
 	padding: 1rem 0;
 	width: 100%;
 	max-width: 15.5rem;
-   font-size:1.3rem
+	font-size: 1.3rem;
 }
 
 .tittle {
-   padding: 3rem 0 .5rem;
-   border-bottom: 2px solid rgb(116 144 163);
-   color: rgb(13 44 73);
-   text-align: center;
+	padding: 3rem 0 0.5rem;
+	border-bottom: 2px solid rgb(116 144 163);
+	color: rgb(13 44 73);
+	text-align: center;
 }
 #header-1 {
-   color:rgb(118 145 164)
+	color: rgb(118 145 164);
 }
 .SubContent {
-   padding: 2rem 0;
+	padding: 2rem 0;
 }
 .SubImage {
 	width: 60%;
@@ -81,80 +81,80 @@ p {
 	transform: translateX(-50%);
 }
 .ImageSize {
-   width: 100%;
-   height: auto;
+	width: 100%;
+	height: auto;
 }
 .TextContent h2 {
-   font-size: 1.2rem;
+	font-size: 1.2rem;
 }
 .TextContent p {
-   padding: 1rem 0;
+	padding: 1rem 0;
 }
 .LearnMore {
-   text-align: center;
+	text-align: center;
 }
 .LearnMore a {
 	text-decoration: none;
 	color: white;
 	background: #072745;
-   padding: .5rem 2rem;
+	padding: 0.5rem 2rem;
 }
 .LinkHere {
-   padding: 0 .5rem;
-   color: #1084ce;
+	padding: 0 0.5rem;
+	color: #1084ce;
 }
 .section3 {
-   padding-bottom: 4rem;
+	padding-bottom: 4rem;
 }
 #footer {
-   background-color:#072745;
+	background-color: #072745;
 }
 #footer p {
-   color: white;
-   font-weight: 300;
+	color: white;
+	font-weight: 300;
 }
 #footer span {
-   color: white;
-   padding: 0 .5rem
+	color: white;
+	padding: 0 0.5rem;
 }
 #footer .name {
-   padding-left: 0;
+	padding-left: 0;
 }
 #footer .Info {
-   text-decoration: none;
-   border-right: 1px solid white;
+	text-decoration: none;
+	border-right: 1px solid white;
 }
 #footer a {
-   color: white;
+	color: white;
 }
 .privacy {
-   border-right: 1px solid white;
+	border-right: 1px solid white;
 }
 .hover {
-   cursor: pointer;
+	cursor: pointer;
 }
 @media screen and (min-width: 768px) {
-   .HeroSection {
-      padding: 5rem 8rem 3rem;
-   }
-   .tittle {
-      padding: 4rem 0 .5rem;
-      font-size: 1.6rem;
-      text-align: left;
-   }
-   .SubContent {
-      display: flex;
-      justify-content: space-between;
-   }
-   .SubImage {
-      width: 22%;
-      position: unset;
-      transform: translate(0);
-   }
-   .TextContent {
-      width: 73%;
-   }
-   .TextContent h2 {
-      font-size: 1.5rem;
-   }
+	.HeroSection {
+		padding: 5rem 8rem 3rem;
+	}
+	.tittle {
+		padding: 4rem 0 0.5rem;
+		font-size: 1.6rem;
+		text-align: left;
+	}
+	.SubContent {
+		display: flex;
+		justify-content: space-between;
+	}
+	.SubImage {
+		width: 22%;
+		position: unset;
+		transform: translate(0);
+	}
+	.TextContent {
+		width: 73%;
+	}
+	.TextContent h2 {
+		font-size: 1.5rem;
+	}
 }
