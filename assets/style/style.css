@@ -75,10 +75,10 @@ p {
    padding: 2rem 0;
 }
 .SubImage {
-   width: 60%;
-   position: relative;
-   left: 50%;
-   transform: translateX(-50%);
+	width: 60%;
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
 }
 .ImageSize {
    width: 100%;
