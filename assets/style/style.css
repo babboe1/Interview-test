@@ -54,11 +54,11 @@ p {
 	font-weight: 700;
 	padding: 2rem 0 0;
 }
-.HeroSection p{
-   color: white;
-   padding: 1rem 0;
-   width: 100%;
-   max-width: 15.5rem;
+.HeroSection p {
+	color: white;
+	padding: 1rem 0;
+	width: 100%;
+	max-width: 15.5rem;
    font-size:1.3rem
 }
 
