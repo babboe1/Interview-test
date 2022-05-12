@@ -49,10 +49,10 @@ footer {
    padding: 1rem 0 0;
 }
 p {
-   color: rgb(71 95 131);
-   font-size: 13px;
-   font-weight: 700;
-   padding: 2rem 0 0;
+	color: rgb(71 95 131);
+	font-size: 13px;
+	font-weight: 700;
+	padding: 2rem 0 0;
 }
 .HeroSection p{
    color: white;
@@ -94,9 +94,9 @@ p {
    text-align: center;
 }
 .LearnMore a {
-   text-decoration: none;
-   color: white;
-   background: #072745;
+	text-decoration: none;
+	color: white;
+	background: #072745;
    padding: .5rem 2rem;
 }
 .LinkHere {
